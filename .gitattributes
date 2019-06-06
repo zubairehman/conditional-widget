@@ -1,3 +1,2 @@
-static/* linguist-vendored
 # direct dart
-*.* Linguist-language=dart
+*.* linguist-language=Dart
